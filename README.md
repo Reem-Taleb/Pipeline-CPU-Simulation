@@ -47,22 +47,28 @@ The Control Unit is responsible for generating signals for each pipeline stage.
 Simulation results are available in: wave.asdb
 
 ## How to Use
-**Run** the Code
-- **Use** a simulator such as:
+- Run the Code
+- Use a simulator such as:
 - **ModelSim**
 - **Vivado**
 
-**Open** Datapath
+- Open Datapath
 - **Use** Logisim to open: DataPath.circ
 
-**Read** the Report
+- Read the Report
 - **Open** : Arch-Project2-Report.pdf
 
 ## Notes
-1. This Project is for educational purposes
-2. The design include hazard detection and forwarding
+- This Project is for educational purposes
+- The design include hazard detection and forwarding
 
 ## Acknoledgments
-This project was developed as part of a computer Arcitecture course.
+- This project was developed as part of a computer Arcitecture course.
+- The project statement was prepared by my instructors, **Ahmad Afaneh** and **Ayman Hroub**, at **BZU**.
+
+## Team             
+- [Reem Taleb](https://github.com/Reem-Taleb)
+- [Leen Badran]
+- [Noura Nateel]
 
 

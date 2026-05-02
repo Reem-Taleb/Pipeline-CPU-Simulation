@@ -49,6 +49,7 @@ Simulation results are available in: wave.asdb
 ## How to Use
 - Run the Code
 - Use a simulator such as:
+- **Active-HDL**
 - **ModelSim**
 - **Vivado**
 
@@ -68,7 +69,7 @@ Simulation results are available in: wave.asdb
 
 ## Team             
 - [Reem Taleb](https://github.com/Reem-Taleb)
-- [Leen Badran]
-- [Noura Nateel]
+- Leen Badran
+- Noura Nateel
 
 

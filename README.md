@@ -59,8 +59,8 @@ Simulation results are available in: wave.asdb
 - **Open** : Arch-Project2-Report.pdf
 
 ## Notes
--**This** Project is for educational purposes
--**The** design include hazard detection and forwarding
+1. This Project is for educational purposes
+2. The design include hazard detection and forwarding
 
 ## Acknoledgments
 This project was developed as part of a computer Arcitecture course.

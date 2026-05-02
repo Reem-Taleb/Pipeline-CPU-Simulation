@@ -5,12 +5,12 @@ Full explanation is available in the project report: [Project Report](Arch-Proje
 ## Table of Contents:
 1. [Overview](#overview)
 2. [Objectives](#objectives)
-3. [Pipeline Architecture](#Pipeline Architecture)
-4. [Project Files](#Project Files)
+3. [Pipeline Architecture](#PipelineArchitecture)
+4. [Project Files](#ProjectFiles)
 5. [Datapath](#Datapath)
-6. [Control Unit](#Control Unit)
+6. [Control Unit](#ControlUnit)
 7. [Simulation](#Simulation)
-8. [How to Use](#How to Use)
+8. [How to Use](#HowtoUse)
 
 ## Overview
 This project demonstrates the design of a pipelined processor, which improves performance by executing multiple instructions simultaneously using different stages of execuation.

@@ -16,26 +16,26 @@ Full explanation is available in the project report: [Project Report](Arch-Proje
 This project demonstrates the design of a pipelined processor, which improves performance by executing multiple instructions simultaneously using different stages of execuation.
 
 ## Objectives
-Design a 32-bit pipelined CPU using verilog.
-Implement and simulate code sequences to verify the functionality of the processor, datapath and control unit.
-Write a testbench to test the processor’s operations.
-Improne performance by using pipelining.
-Verify functionality using simulation.
+- **Design** a 32-bit pipelined CPU using verilog.
+- **Implement** and simulate code sequences to verify the functionality of the processor, datapath and control unit.
+- **Write** a testbench to test the processor’s operations.
+- **Improve** performance by using pipelining.
+- **Verify** functionality using simulation.
 
 ## Pipeline Architecture
 The processor is divided into the following stages:
-IF --> Instruction Fetch
-ID --> Instruction Decode
-EX --> Execute
-MEM --> Memory Access
-WB --> Write Back
+-**IF** --> Instruction Fetch
+-**ID** --> Instruction Decode
+-**EX** --> Execute
+-**MEM** --> Memory Access
+-**WB** --> Write Back
 
 ## Project Files
-MainVerilog.v --> Main Verilog implementation
-DataPath.circ --> Datapth design
-Arch-Project2-Report.pdf --> Project report
-Main Control Signals (2).txt --> Control signals analysis
-wave.asdb --> Simulation waveform of main project
+- **MainVerilog.v** --> Main Verilog implementation
+- **DataPath.circ** --> Datapth design
+- **Arch-Project2-Report.pdf** --> Project report
+- **Main Control Signals (2).txt** --> Control signals analysis
+- **wave.asdb** --> Simulation waveform of main project
 
 ## Datapath
 ![Datapath](datapath.jpg)
@@ -47,20 +47,20 @@ The Control Unit is responsible for generating signals for each pipeline stage.
 Simulation results are available in: wave.asdb
 
 ## How to Use
-# Run the Code
-Use a simulator such as:
-ModelSim
-Vivado
+Run the Code
+**Use** a simulator such as:
+**ModelSim**
+**Vivado**
 
-# Open Datapath
-Use Logisim to open: DataPath.circ
+**Open** Datapath
+**Use** Logisim to open: DataPath.circ
 
-# Read the Report
-Open : Arch-Project2-Report.pdf
+**Read** the Report
+**Open** : Arch-Project2-Report.pdf
 
 ## Notes
 This Project is for educational purposes
-The design include hazard detection and forwarding
+**The** design include hazard detection and forwarding
 
 ## Acknoledgments
 This project was developed as part of a computer Arcitecture course.

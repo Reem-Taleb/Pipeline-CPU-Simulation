@@ -24,11 +24,11 @@ This project demonstrates the design of a pipelined processor, which improves pe
 
 ## Pipeline Architecture
 The processor is divided into the following stages:
--**IF** --> Instruction Fetch
--**ID** --> Instruction Decode
--**EX** --> Execute
--**MEM** --> Memory Access
--**WB** --> Write Back
+1. **IF** --> Instruction Fetch
+2. **ID** --> Instruction Decode
+3. **EX** --> Execute
+4. **MEM** --> Memory Access
+5. **WB** --> Write Back
 
 ## Project Files
 - **MainVerilog.v** --> Main Verilog implementation
